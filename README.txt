@@ -1,9 +1,9 @@
-***MultiSig Wallet***
-------------
+MultiSig Wallet
+
 Overview
 
 This is a MultiSig (multi-signature) Wallet project built on the Ethereum blockchain. MultiSig wallets add an extra layer of security by requiring multiple approvals to execute transactions. This project includes a series of contracts with increasing complexity, scripts for deploying contracts, and tests to validate functionality.
-----------------
+
 Directory Structure
 
 This workspace contains three main directories:
@@ -11,7 +11,7 @@ This workspace contains three main directories:
 	•	contracts: Contains Solidity contracts, with increasing complexity, implementing the MultiSig Wallet’s core functionality.
 	•	scripts: Typescript files for deploying the contracts to a blockchain network.
 	•	tests: Includes Solidity and JavaScript test files to validate contract functionality.
---------------
+
 Getting Started
 
 Prerequisites
@@ -44,7 +44,7 @@ Directory Details
 	•	Includes test files for validating the contracts:
 	•	BallotTest.sol: Solidity test file for the Ballot contract.
 	•	StorageTest.js: JavaScript test file for the Storage contract.
--------------
+
 Usage
 
 	1.	Compile the Contracts
